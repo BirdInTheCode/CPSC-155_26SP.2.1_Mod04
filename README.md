@@ -12,3 +12,4 @@
 * Annette Salazar
 * Isaac Santos
 * Joseph Forbes
+* Alex Nelson
