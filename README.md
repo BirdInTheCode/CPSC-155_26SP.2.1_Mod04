@@ -10,3 +10,4 @@
 * Taylor Bell
 * Robin Bird
 * Annette Salazar
+* Isaac Santos
