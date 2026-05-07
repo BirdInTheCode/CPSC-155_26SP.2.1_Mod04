@@ -21,3 +21,4 @@
 * giselle coronado
 * Derrick Nelson
 * Aiden Gill
+* Quade Mclemore
