@@ -4,6 +4,8 @@
   
 ### Instructor: Lawrence Sevigny
 
+### Tutor: Vargus Fellwroth, Conan, Esmerelda
+
 ### Students:
 * Sam Stoodent
 * Spencer Elayer
