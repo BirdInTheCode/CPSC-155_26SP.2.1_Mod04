@@ -14,3 +14,4 @@
 * Joseph Forbes
 * Alex Nelson
 * Ashley Berdeja
+* Hal Scott
