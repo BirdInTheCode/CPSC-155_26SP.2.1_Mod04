@@ -13,11 +13,10 @@
 * Isaac Santos
 * Joseph Forbes
 * Alex Nelson
-<<<<<<< HEAD
 * Ashley Berdeja
 * Hal Scott
 * Hannah Anderson
 * Lukas Osmundson
-=======
-Jasper Martin
->>>>>>> patching
+* Jasper Martin
+* giselle coronado
+
