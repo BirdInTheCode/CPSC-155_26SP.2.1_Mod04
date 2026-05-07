@@ -13,3 +13,4 @@
 * Isaac Santos
 * Joseph Forbes
 * Alex Nelson
+* Quade Mclemore
