@@ -16,3 +16,4 @@
 * Ashley Berdeja
 * Hal Scott
 * Hannah Anderson
+* Lukas Osmundson
